@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// simple guessing game
 
 Random random = new Random();
 bool playAgain = true;
