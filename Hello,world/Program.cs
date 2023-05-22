@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//Simple hello world program
 
 Console.Write("What's your name?: ");
 String name = Console.ReadLine();
