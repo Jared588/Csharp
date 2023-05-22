@@ -1,0 +1,15 @@
+/mnt/c/Coding/CSharp/mario/bin/Debug/net7.0/mario
+/mnt/c/Coding/CSharp/mario/bin/Debug/net7.0/mario.deps.json
+/mnt/c/Coding/CSharp/mario/bin/Debug/net7.0/mario.runtimeconfig.json
+/mnt/c/Coding/CSharp/mario/bin/Debug/net7.0/mario.dll
+/mnt/c/Coding/CSharp/mario/bin/Debug/net7.0/mario.pdb
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.csproj.AssemblyReference.cache
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.AssemblyInfoInputs.cache
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.AssemblyInfo.cs
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.csproj.CoreCompileInputs.cache
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.dll
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/refint/mario.dll
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.pdb
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/mario.genruntimeconfig.cache
+/mnt/c/Coding/CSharp/mario/obj/Debug/net7.0/ref/mario.dll

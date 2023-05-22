@@ -1,0 +1,15 @@
+/mnt/c/Coding/CSharp/guessing-game/bin/Debug/net7.0/guessing-game
+/mnt/c/Coding/CSharp/guessing-game/bin/Debug/net7.0/guessing-game.deps.json
+/mnt/c/Coding/CSharp/guessing-game/bin/Debug/net7.0/guessing-game.runtimeconfig.json
+/mnt/c/Coding/CSharp/guessing-game/bin/Debug/net7.0/guessing-game.dll
+/mnt/c/Coding/CSharp/guessing-game/bin/Debug/net7.0/guessing-game.pdb
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.csproj.AssemblyReference.cache
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.AssemblyInfoInputs.cache
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.AssemblyInfo.cs
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.csproj.CoreCompileInputs.cache
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.dll
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/refint/guessing-game.dll
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.pdb
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/guessing-game.genruntimeconfig.cache
+/mnt/c/Coding/CSharp/guessing-game/obj/Debug/net7.0/ref/guessing-game.dll

@@ -1,0 +1,15 @@
+/mnt/c/Coding/CSharp/cars/bin/Debug/net7.0/cars
+/mnt/c/Coding/CSharp/cars/bin/Debug/net7.0/cars.deps.json
+/mnt/c/Coding/CSharp/cars/bin/Debug/net7.0/cars.runtimeconfig.json
+/mnt/c/Coding/CSharp/cars/bin/Debug/net7.0/cars.dll
+/mnt/c/Coding/CSharp/cars/bin/Debug/net7.0/cars.pdb
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.csproj.AssemblyReference.cache
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.AssemblyInfoInputs.cache
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.AssemblyInfo.cs
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.csproj.CoreCompileInputs.cache
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.dll
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/refint/cars.dll
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.pdb
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/cars.genruntimeconfig.cache
+/mnt/c/Coding/CSharp/cars/obj/Debug/net7.0/ref/cars.dll

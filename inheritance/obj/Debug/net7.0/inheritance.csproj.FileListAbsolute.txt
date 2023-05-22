@@ -1,0 +1,15 @@
+/mnt/c/Coding/CSharp/inheritance/bin/Debug/net7.0/inheritance
+/mnt/c/Coding/CSharp/inheritance/bin/Debug/net7.0/inheritance.deps.json
+/mnt/c/Coding/CSharp/inheritance/bin/Debug/net7.0/inheritance.runtimeconfig.json
+/mnt/c/Coding/CSharp/inheritance/bin/Debug/net7.0/inheritance.dll
+/mnt/c/Coding/CSharp/inheritance/bin/Debug/net7.0/inheritance.pdb
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.csproj.AssemblyReference.cache
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfoInputs.cache
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfo.cs
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.csproj.CoreCompileInputs.cache
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.dll
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/refint/inheritance.dll
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.pdb
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/inheritance.genruntimeconfig.cache
+/mnt/c/Coding/CSharp/inheritance/obj/Debug/net7.0/ref/inheritance.dll

@@ -1,0 +1,15 @@
+/mnt/c/Coding/CSharp/calculator/bin/Debug/net7.0/calculator
+/mnt/c/Coding/CSharp/calculator/bin/Debug/net7.0/calculator.deps.json
+/mnt/c/Coding/CSharp/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/mnt/c/Coding/CSharp/calculator/bin/Debug/net7.0/calculator.dll
+/mnt/c/Coding/CSharp/calculator/bin/Debug/net7.0/calculator.pdb
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.dll
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/refint/calculator.dll
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.pdb
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/mnt/c/Coding/CSharp/calculator/obj/Debug/net7.0/ref/calculator.dll
