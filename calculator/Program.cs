@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Simple calculator
 
 double num1 = 0;
 double num2 = 0;
